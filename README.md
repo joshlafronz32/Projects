@@ -9,3 +9,4 @@ List of PDF topics:
 - Shea's First 162: How A's top prospect -and centerpiece of the Matt Olson trade- Shea Langeliers fared in his first 162 MLB games
 - Keon: Diving into the inefficient and brief career of 2021 first-round pick Keon Johnson
 - P-Will: Detailing the slow start for the ever disappointing 23-year-old Patrick Williams
+- Bam Has a Three-Point Problem: A statistical breakdown of the down year Heat center Bam Adebayo is having
