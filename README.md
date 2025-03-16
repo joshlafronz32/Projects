@@ -11,3 +11,4 @@ List of PDF topics:
 - P-Will: Detailing the slow start for the ever disappointing 23-year-old Patrick Williams
 - Bam Has a Three-Point Problem: A statistical breakdown of the down year Heat center Bam Adebayo is having
 - Russ Free Throws: Diving into the weeds of Russell Westbrook's free throw decline, using statistical tests and website scraping to build a dataset.
+- Zhuric Phelps: Exposing the SEC's most undeserving volume shooter
