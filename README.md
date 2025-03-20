@@ -12,3 +12,4 @@ List of PDF topics:
 - Bam Has a Three-Point Problem: A statistical breakdown of the down year Heat center Bam Adebayo is having
 - Russ Free Throws: Diving into the weeds of Russell Westbrook's free throw decline, using statistical tests and website scraping to build a dataset.
 - Zhuric Phelps: Exposing the SEC's most undeserving volume shooter
+- Perdomo: A two-parter: the 2023 first half breakout of Geraldo Perdomo and the reality check that came afterwards
