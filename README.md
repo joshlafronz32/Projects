@@ -14,3 +14,4 @@ List of PDF topics:
 - Zhuric Phelps: Exposing the SEC's most undeserving volume shooter.
 - Perdomo: A two-parter - the 2023 first half breakout of Geraldo Perdomo and the reality check that came afterwards.
 - LMU Best: An argumentative and reflective piece about LMU Basketball's 2023 season.
+- Davis & Walker: Detailing the early struggles of former top prospects Henry Davis and Jordan Walker
