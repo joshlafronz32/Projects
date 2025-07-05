@@ -18,3 +18,4 @@ List of PDF topics:
 - Game 6: Recapping the legend of Klay Thompson through the lens of statistical and visual analysis.
 - Reese: Breaking down the dominant rebounding of Chicago Sky forward Angel Reese.
 - RISP: Examining the difference in a batter's approach (and productivity?) when the bases are empty and when there are runners in scoring position.
+- Anderson: Unpacking the career trajectory of Magic forward Nick Anderson.
