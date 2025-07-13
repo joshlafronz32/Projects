@@ -19,3 +19,4 @@ List of PDF topics:
 - Reese: Breaking down the dominant rebounding of Chicago Sky forward Angel Reese.
 - RISP: Examining the difference in a batter's approach (and productivity?) when the bases are empty and when there are runners in scoring position.
 - Anderson: Unpacking the career trajectory of Magic forward Nick Anderson.
+- Shaq Free Throws: Adding more context to Shaq's free throw woes and evaluating his claim that he made them in clutch situations.
