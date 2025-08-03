@@ -1,4 +1,4 @@
-My personal portfolio of basketball and baseball research studies, deep dives and general reports on findings.
+My personal portfolio of basketball and baseball research studies and analysis.
 
 List of PDF topics:
 - July 14 MLB Home Run Barrage: A breakdown of the massive day for home runs on July 14, 2024.
@@ -20,3 +20,4 @@ List of PDF topics:
 - Setting The Table: Examining the difference in a batter's approach (and productivity?) when the bases are empty and when there are runners in scoring position.
 - The Two Sides of Nick Anderson: Unpacking the career trajectory of Magic forward Nick Anderson.
 - O'Neal v. The Hack-a-Shaq: Adding more context to Shaq's free throw woes and evaluating his claim that he made them in clutch situations.
+- Updating the 40-20 Rule: Taking an extended look at the profiles of NBA champions through the lens of Coach Phil Jackson's 40-20 Rule.
