@@ -6,6 +6,7 @@ List of PDF topics:
 - G-League Hot Streaks (2023-24): Highlighting the turnarounds by several G-League players whom I followed in college.
 - July 14 MLB Home Run Barrage: A breakdown of the massive day for home runs on July 14, 2024.
 - Meet Ivan Johnson: A fun one! A brief piece highlighting former Atlanta Hawk and nonchalant tough guy Ivan Johnson.
+- New Faces, Slumping Aces: Diagnosing the problems the 2025 Aces are experiencing (as of Aug. 7, 2025).
 - No Such Thing as Free: Diving into the weeds of Russell Westbrook's free throw decline, using statistical tests and website scraping to build a dataset.
 - O'Neal v. The Hack-a-Shaq: Adding more context to Shaq's free throw woes and evaluating his claim that he made them in clutch situations.
 - Patrick Williams & The Five-Year Plan: Detailing the slow start for the ever disappointing 23-year-old Patrick Williams.
