@@ -4,6 +4,7 @@ List of PDF topics:
 - Bam Adebayo Has a Three-Point Problem: A statistical breakdown of the down year Heat center Bam Adebayo is having.
 - Board Woman Gets Paid: Breaking down the dominant rebounding of Chicago Sky forward Angel Reese.
 - G-League Hot Streaks (2023-24): Highlighting the turnarounds by several G-League players whom I followed in college.
+- It's Been Long Enough: Making the case for Larry Foust's Hall of Fame enshrinement.
 - July 14 MLB Home Run Barrage: A breakdown of the massive day for home runs on July 14, 2024.
 - Meet Ivan Johnson: A fun one! A brief piece highlighting former Atlanta Hawk and nonchalant tough guy Ivan Johnson.
 - New Faces, Slumping Aces: Diagnosing the problems the 2025 Aces are experiencing (as of Aug. 7, 2025).
