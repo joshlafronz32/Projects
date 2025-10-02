@@ -23,3 +23,4 @@ List of PDF topics:
 - The Two Sides of Nick Anderson: Unpacking the career trajectory of Magic forward Nick Anderson.
 - Trouble in Boca Raton: The struggles of Final-Four surprise Florida Atlantic in their sequel season.
 - Updating the 40-20 Rule: Taking an extended look at the profiles of NBA champions through the lens of Coach Phil Jackson's 40-20 Rule.
+- Without A Hitch: Profiling several NBA players who underwent serious changes in their shooting mechanics.
