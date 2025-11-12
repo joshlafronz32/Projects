@@ -1,6 +1,7 @@
 My personal portfolio of basketball and baseball research studies and analysis.
 
 List of PDF topics:
+- A Fan's Guide to Fantasy Football: A thorough, yet accessible guide of fantasy fooball tips.
 - Bam Adebayo Has a Three-Point Problem: A statistical breakdown of the down year Heat center Bam Adebayo is having.
 - Board Woman Gets Paid: Breaking down the dominant rebounding of Chicago Sky forward Angel Reese.
 - G-League Hot Streaks (2023-24): Highlighting the turnarounds by several G-League players whom I followed in college.
