@@ -1,7 +1,7 @@
 My personal portfolio of basketball and baseball research studies and analysis.
 
 List of PDF topics:
-- A Fan's Guide to Fantasy Football: A thorough, yet accessible guide of fantasy fooball tips.
+- A Fan's Guide to Fantasy Football: A thorough, yet accessible guide of fantasy football tips.
 - A Moment to Break the Ice: A exercise in modeling how icing the kicker affects field goal accuracy.
 - Bam Adebayo Has a Three-Point Problem: A statistical breakdown of the down year Heat center Bam Adebayo is having.
 - Board Woman Gets Paid: Breaking down the dominant rebounding of Chicago Sky forward Angel Reese.
