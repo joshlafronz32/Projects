@@ -21,6 +21,7 @@ List of PDF topics:
 - The Early Struggles of Henry Davis & Jordan Walker: Detailing the early struggles of former top prospects Henry Davis and Jordan Walker.
 - The Garuba Report: 2024 Edition: Catching up with former first-round pick Usman Garuba and guaging the status of his career.
 - The Legend of Game 6 Klay: Recapping the legend of Klay Thompson through the lens of statistical and visual analysis.
+- The Playoff Pitfalls of James Harden: Addressing the narrative that James Harden shrinks in the postseason.
 - The SEC's Secret Shot Chucker: Exposing the SEC's most undeserving volume shooter.
 - The Two Sides of Nick Anderson: Unpacking the career trajectory of Magic forward Nick Anderson.
 - Trouble in Boca Raton: The struggles of Final-Four surprise Florida Atlantic in their sequel season.
