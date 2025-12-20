@@ -5,6 +5,7 @@ List of PDF topics:
 - A Moment to Break the Ice: A exercise in modeling how icing the kicker affects field goal accuracy.
 - Bam Adebayo Has a Three-Point Problem: A statistical breakdown of the down year Heat center Bam Adebayo is having.
 - Board Woman Gets Paid: Breaking down the dominant rebounding of Chicago Sky forward Angel Reese.
+- Cultrue: Remembering the 2017 Miami Heat, a team to be admired and respected.
 - G-League Hot Streaks (2023-24): Highlighting the turnarounds by several G-League players whom I followed in college.
 - It's Been Long Enough: Making the case for Larry Foust's Hall of Fame enshrinement.
 - July 14 MLB Home Run Barrage: A breakdown of the massive day for home runs on July 14, 2024.
