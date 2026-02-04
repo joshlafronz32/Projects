@@ -3,6 +3,7 @@ My personal portfolio of basketball and baseball research studies and analysis.
 List of PDF topics:
 - A Fan's Guide to Fantasy Football: A thorough, yet accessible guide of fantasy football tips.
 - A Moment to Break the Ice: A exercise in modeling how icing the kicker affects field goal accuracy.
+- An Imperfect Science of NBA Scouting: Exploring the belief that an NBA prospect's college free throw percentage is the litmus test for their NBA shooting ability.
 - Bam Adebayo Has a Three-Point Problem: A statistical breakdown of the down year Heat center Bam Adebayo is having.
 - Board Woman Gets Paid: Breaking down the dominant rebounding of Chicago Sky forward Angel Reese.
 - Cultrue: Remembering the 2017 Miami Heat, a team to be admired and respected.
