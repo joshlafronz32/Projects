@@ -6,7 +6,7 @@ List of PDF topics:
 - An Imperfect Science of NBA Scouting: Exploring the belief that an NBA prospect's college free throw percentage is the litmus test for their NBA shooting ability.
 - Bam Adebayo Has a Three-Point Problem: A statistical breakdown of the down year Heat center Bam Adebayo is having.
 - Board Woman Gets Paid: Breaking down the dominant rebounding of Chicago Sky forward Angel Reese.
-- Cultrue: Remembering the 2017 Miami Heat, a team to be admired and respected.
+- Culture: Remembering the 2017 Miami Heat, a team to be admired and respected.
 - G-League Hot Streaks (2023-24): Highlighting the turnarounds by several G-League players whom I followed in college.
 - It's Been Long Enough: Making the case for Larry Foust's Hall of Fame enshrinement.
 - July 14 MLB Home Run Barrage: A breakdown of the massive day for home runs on July 14, 2024.
@@ -21,7 +21,7 @@ List of PDF topics:
 - The Breakout of Geraldo Perdomo: A two-parter - the 2023 first half breakout of Geraldo Perdomo and the reality check that came afterwards.
 - The Delayed Development of Keon Johnson: Diving into the inefficient and brief career of 2021 first-round pick Keon Johnson.
 - The Early Struggles of Henry Davis & Jordan Walker: Detailing the early struggles of former top prospects Henry Davis and Jordan Walker.
-- The Garuba Report: 2024 Edition: Catching up with former first-round pick Usman Garuba and guaging the status of his career.
+- The Garuba Report - 2024 Edition: Catching up with former first-round pick Usman Garuba and guaging the status of his career.
 - The Legend of Game 6 Klay: Recapping the legend of Klay Thompson through the lens of statistical and visual analysis.
 - The Playoff Pitfalls of James Harden: Addressing the narrative that James Harden shrinks in the postseason.
 - The SEC's Secret Shot Chucker: Exposing the SEC's most undeserving volume shooter.
