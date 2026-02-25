@@ -8,6 +8,7 @@ List of PDF topics:
 - Board Woman Gets Paid: Breaking down the dominant rebounding of Chicago Sky forward Angel Reese.
 - Culture: Remembering the 2017 Miami Heat, a team to be admired and respected.
 - G-League Hot Streaks (2023-24): Highlighting the turnarounds by several G-League players whom I followed in college.
+- Hype & Humility: A scouting report covering Virginia Tech freshman Neoklis Avdalas, looking at the highs, lows, reasons for optimism, and future concerns.
 - It's Been Long Enough: Making the case for Larry Foust's Hall of Fame enshrinement.
 - July 14 MLB Home Run Barrage: A breakdown of the massive day for home runs on July 14, 2024.
 - Meet Ivan Johnson: A fun one! A brief piece highlighting former Atlanta Hawk and nonchalant tough guy Ivan Johnson.
