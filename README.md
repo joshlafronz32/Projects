@@ -1,6 +1,6 @@
-My personal portfolio of basketball and baseball research studies and analysis.
+# My personal portfolio of basketball and baseball research studies and analysis.
 
-List of PDF topics:
+## Brief Description of Each Piece:
 - A Fan's Guide to Fantasy Football: A thorough, yet accessible guide of fantasy football tips.
 - A Moment to Break the Ice: A exercise in modeling how icing the kicker affects field goal accuracy.
 - An Imperfect Science of NBA Scouting: Exploring the belief that an NBA prospect's college free throw percentage is the litmus test for their NBA shooting ability.
@@ -30,3 +30,38 @@ List of PDF topics:
 - Updating the 40-20 Rule: Taking an extended look at the profiles of NBA champions through the lens of Coach Phil Jackson's 40-20 Rule.
 - Waiting On Scoot: A deep dive into the improvement, shortcomings and reasons to believe in young guard Scoot Henderson.
 - Without A Hitch: Profiling several NBA players who underwent serious changes in their shooting mechanics.
+
+## Skills Demonstrated
+
+|Project Name|Sport|Tech Stack|Skills|Key Insight|
+|---|---|---|---|---|
+|A Fan's Guide to Fantasy Football|🏈|R (tidyverse)|Viz, Data Storytelling|Meaningful Fantasy Stats|
+|A Moment to Break the Ice|🏈|R (stats)|Logistic Regression, Bootstrap, Scraping, Dataset Building|Assessing a Popular Notion|
+|An Imperfect Science of NBA Scouting|🏀|R (tidyverse, stats, car)|Linear Regression, Cross-Validation, Bootstrap, Scraping, Dataset Building|Assessing a Popular Notion|
+|Bam Adebayo Has a Three-Point Problem|🏀|Excel, R (tidyverse)|Viz, Data Storytelling|Analyzing Decline in Performance|
+|Board Woman Gets Paid|🏀|Excel, Python (Numpy, Pandas)|Bootstrap, Viz, Feature Engineering|Contextualizing an Elite Skill|
+|Culture|🏀|Python (Soup, Pandas)|Data Storytelling, Viz, Scraping|Contextualizing a Remarkable Feat|
+|G-League Hot Streaks (2023-24)|🏀|Python (Soup)|Data Storytelling|Highlighting Increased Production|
+|Hype & Humility|🏀|Python (Soup, PlayWright, NumPy, Pandas, Pyplot)|Viz, Data Gathering, Data Storytelling|Prospect Scouting|
+|It's Been Long Enough|🏀|Python (Soup, Pandas)|Data Storytelling, Scraping, Feature Engineering|Defending Claim for Hall-of-Fame Enshrinement|
+|New Faces, Slumping Aces|🏀|R (tidyverse)|Viz, Data Storytelling|Performance Analysis and Long-Term Projection|
+|No Such Thing as Free|🏀|R (stats, tidyverse), Python (Soup, Pandas)|Viz, Data Storytelling, Scraping, Dataset Building|Analyzing Decline in Performance|
+|O'Neal v. The Hack-a-Shaq|🏀|R (stats, tidyverse), Python (Soup, Pandas)|Viz, Data Storytelling, Scraping, Dataset Building|Shooting Ability in High Leverage|
+|Patrick Williams & The Five-Year Plan|🏀|Excel|Viz, Data Storytelling|Performance Analysis and Long-Term Projection|
+|Pride Restored|🏀|R (tidyverse), Python (Soup, Pandas, Pyplot)|Data Storytelling, Viz, Scraping|Contextualizing a Remarkable Feat|
+|Setting The Table|⚾️|R (tidyverse, stats)|Bootstrap, NHST|Assessing Performance in High Leverage|
+|Shea Langeliers's Performance Review|⚾️|R (tidyverse)|Viz, Data Storytelling|Highlighting Increased Production|
+|The Breakout of Geraldo Perdomo|⚾️|Excel, R (tidyverse)|Viz, Data Storytelling|Highlighting Increased Production|
+|The Delayed Development of Keon Johnson|🏀|R (tidyverse)|Viz, Data Storytelling|Analyzing How Young Players are Struggling|
+|The Early Struggles of Henry Davis & Jordan Walker|⚾️|Excel|Viz, Data Storytelling|Analyzing How Young Players are Struggling|
+|The Fireworks Came Late|⚾️|Excel|Viz|Highlighting Increased Production|
+|The Garuba Report - 2024 Edition|🏀|Excel|Data Storytelling|Prospect Scouting|
+|The Legend of Game 6 Klay|🏀|R (stats, tidyverse), Python (Soup, Pandas)|Bootstrap, Viz, Scraping, Data Storytelling|Shooting Ability in High Leverage|
+|The Playoff Pitfalls of James Harden|🏀|R (stats, tidyverse), Python (Soup, Pandas)|Bootstrap, Viz, Scraping, Data Storytelling|Shooting Ability in High Leverage|
+|The SEC's Secret Shot Chucker|🏀|R (stats, tidyverse), SQL, Excel|Viz, Data Storytelling, Feature Engineering|Contrasting Volume and Inefficiency|
+|The Two Sides of Nick Anderson|🏀|R (stats, tidyverse), Python (Soup, Pandas)|Viz, Data Storytelling, Scraping, Dataset Building|Analyzing Decline in Performance|
+|Trouble in Boca Raton|🏀|R (stats, tidyverse), Excel|Viz, Data Storytelling|Analyzing Decline in Performance|
+|Updating the 40-20 Rule|🏀|R (stats, tidyverse), Python (Soup, Pandas)|Viz, Data Storytelling, Feature Engineering|Assessing a Popular Notion|
+|Waiting On Scoot|🏀|R (stats, tidyverse), Excel|Viz, Data Storytelling|Prospect Development|
+|Without A Hitch|🏀|R (stats, tidyverse), Python (Soup, Pandas), Excel|Bootstrap, Viz, Scraping, Data Storytelling|How Mechancial Changes Influenced Growth|
+
