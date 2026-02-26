@@ -18,7 +18,9 @@
 
 ## Skills Demonstrated
 
+[Back to Top](#my-personal-portfolio-of-sports-research-statistical-analysis-and-data-analysis-pieces)
 ### Technical Toolkit
+
 - Python
     - Pandas
     - NumPy
@@ -37,7 +39,9 @@
     - Other Tables
 - LaTex/Overleaf
 
+[Back to Top](#my-personal-portfolio-of-sports-research-statistical-analysis-and-data-analysis-pieces)
 ### Project Guide
+
 |Project Name|Sport|Tech Stack|Skills|Key Insight|
 |---|---|---|---|---|
 |[A Fan's Guide to Fantasy Football](https://github.com/joshlafronz32/Projects/blob/main/library/A%20Fan's%20Guide%20to%20Fantasy%20Football.pdf)|🏈|R (tidyverse)|Viz, Data Storytelling|Meaningful Fantasy Stats|
@@ -70,8 +74,8 @@
 |[Waiting On Scoot](https://github.com/joshlafronz32/Projects/blob/main/library/Waiting%20On%20Scoot.pdf)|🏀|R (stats, tidyverse), Excel|Viz, Data Storytelling|Prospect Development|
 |[Without A Hitch](https://github.com/joshlafronz32/Projects/blob/main/library/Without%20A%20Hitch.pdf)|🏀|R (stats, tidyverse), Python (Soup, Pandas), Excel|Bootstrap, Viz, Scraping, Data Storytelling|How Mechancial Changes Influenced Growth|
 
-## Brief Description of Each Piece:
 [Back to Top](#my-personal-portfolio-of-sports-research-statistical-analysis-and-data-analysis-pieces)
+## Brief Description of Each Piece:
 
 - [A Fan's Guide to Fantasy Football](https://github.com/joshlafronz32/Projects/blob/main/library/A%20Fan's%20Guide%20to%20Fantasy%20Football.pdf): A thorough, yet accessible guide of fantasy football tips.
 - [A Moment to Break the Ice](https://github.com/joshlafronz32/Projects/blob/main/library/A%20Moment%20to%20Break%20the%20Ice.pdf): A exercise in modeling how icing the kicker affects field goal accuracy.
