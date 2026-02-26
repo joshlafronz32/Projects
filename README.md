@@ -75,4 +75,5 @@
 - [Updating the 40-20 Rule](https://github.com/joshlafronz32/Projects/blob/main/Updating%20the%2040-20%20Rule.pdf): Taking an extended look at the profiles of NBA champions through the lens of Coach Phil Jackson's 40-20 Rule.
 - [Waiting On Scoot](https://github.com/joshlafronz32/Projects/blob/main/Waiting%20On%20Scoot.pdf): A deep dive into the improvement, shortcomings and reasons to believe in young guard Scoot Henderson.
 - [Without A Hitch](https://github.com/joshlafronz32/Projects/blob/main/Without%20A%20Hitch.pdf): Profiling several NBA players who underwent serious changes in their shooting mechanics.
+[Back to Top](#my-personal-portfolio-of-sports-research-statistical-analysis-and-data-analysis-pieces)
 
