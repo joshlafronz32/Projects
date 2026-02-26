@@ -45,6 +45,7 @@
 |[Without A Hitch](https://github.com/joshlafronz32/Projects/blob/main/Without%20A%20Hitch.pdf)|🏀|R (stats, tidyverse), Python (Soup, Pandas), Excel|Bootstrap, Viz, Scraping, Data Storytelling|How Mechancial Changes Influenced Growth|
 
 ## Brief Description of Each Piece:
+[Back to Top](#my-personal-portfolio-of-sports-research-statistical-analysis-and-data-analysis-pieces)
 - [A Fan's Guide to Fantasy Football](https://github.com/joshlafronz32/Projects/blob/main/A%20Fan's%20Guide%20to%20Fantasy%20Football.pdf): A thorough, yet accessible guide of fantasy football tips.
 - [A Moment to Break the Ice](https://github.com/joshlafronz32/Projects/blob/main/A%20Moment%20to%20Break%20the%20Ice.pdf): A exercise in modeling how icing the kicker affects field goal accuracy.
 - [An Imperfect Science of NBA Scouting](https://github.com/joshlafronz32/Projects/blob/main/An%20Imperfect%20Science%20of%20NBA%20Scouting.pdf): Exploring the belief that an NBA prospect's college free throw percentage is the litmus test for their NBA shooting ability.
