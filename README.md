@@ -27,7 +27,6 @@
     - BeautifulSoup
     - Matplotlib
     - Scikit-Learn
-    - Playwright
 - R
     - stats
     - tidyverse (dplyr, ggplot2)
@@ -48,10 +47,10 @@
 |[A Moment to Break the Ice](https://github.com/joshlafronz32/Projects/blob/main/library/A%20Moment%20to%20Break%20the%20Ice.pdf)|🏈|R (stats)|Logistic Regression, Bootstrap, Scraping, Dataset Building|Assessing a Popular Notion|
 |[An Imperfect Science of NBA Scouting](https://github.com/joshlafronz32/Projects/blob/main/library/An%20Imperfect%20Science%20of%20NBA%20Scouting.pdf)|🏀|R (tidyverse, stats, car)|Linear Regression, Cross-Validation, Bootstrap, Scraping, Dataset Building|Assessing a Popular Notion|
 |[Bam Adebayo Has a Three-Point Problem](https://github.com/joshlafronz32/Projects/blob/main/library/Bam%20Adebayo%20Has%20a%20Three-Point%20Problem.pdf)|🏀|Excel, R (tidyverse)|Viz, Data Storytelling|Analyzing Decline in Performance|
-|[Board Woman Gets Paid](https://github.com/joshlafronz32/Projects/blob/main/library/Board%20Woman%20Gets%20Paid.pdf)|🏀|Excel, Python (Numpy, Pandas)|Bootstrap, Viz, Feature Engineering|Contextualizing an Elite Skill|
+|[Board Woman Gets Paid](https://github.com/joshlafronz32/Projects/blob/main/library/Board%20Woman%20Gets%20Paid.pdf)|🏀|Excel, Python (NumPy, Pandas)|Bootstrap, Viz, Feature Engineering|Contextualizing an Elite Skill|
 |[Culture](https://github.com/joshlafronz32/Projects/blob/main/library/Culture.pdf)|🏀|Python (Soup, Pandas)|Data Storytelling, Viz, Scraping|Contextualizing a Remarkable Feat|
 |[G-League Hot Streaks (2023-24)](https://github.com/joshlafronz32/Projects/blob/main/library/G-League%20Hot%20Streaks.pdf)|🏀|Python (Soup)|Data Storytelling|Highlighting Increased Production|
-|[Hype & Humility](https://github.com/joshlafronz32/Projects/blob/main/library/Hype%20%26%20Humility.pdf)|🏀|Python (Soup, PlayWright, NumPy, Pandas, Pyplot)|Viz, Data Gathering, Data Storytelling|Prospect Scouting|
+|[Hype & Humility](https://github.com/joshlafronz32/Projects/blob/main/library/Hype%20%26%20Humility.pdf)|🏀|Python (Soup, Playwright, NumPy, Pandas, Pyplot)|Viz, Data Gathering, Data Storytelling|Prospect Scouting|
 |[It's Been Long Enough](https://github.com/joshlafronz32/Projects/blob/main/library/It's%20Been%20Long%20Enough.pdf)|🏀|Python (Soup, Pandas)|Data Storytelling, Scraping, Feature Engineering|Defending Claim for Hall-of-Fame Enshrinement|
 |[New Faces, Slumping Aces](https://github.com/joshlafronz32/Projects/blob/main/library/New%20Faces%2C%20Slumping%20Aces.pdf)|🏀|R (tidyverse)|Viz, Data Storytelling|Performance Analysis and Long-Term Projection|
 |[No Such Thing as Free](https://github.com/joshlafronz32/Projects/blob/main/library/No%20Such%20Thing%20as%20Free.pdf)|🏀|R (stats, tidyverse), Python (Soup, Pandas)|Viz, Data Storytelling, Scraping, Dataset Building|Analyzing Decline in Performance|
