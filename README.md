@@ -68,6 +68,7 @@
 |[The Playoff Pitfalls of James Harden](https://github.com/joshlafronz32/Projects/blob/main/library/The%20Playoff%20Pitfalls%20of%20James%20Harden.pdf)|🏀|R (stats, tidyverse), Python (Soup, Pandas)|Bootstrap, Viz, Scraping, Data Storytelling|Shooting Ability in High Leverage|
 |[The SEC's Secret Shot Chucker](https://github.com/joshlafronz32/Projects/blob/main/library/The%20SEC's%20Secret%20Shot%20Chucker.pdf)|🏀|R (stats, tidyverse), SQL, Excel|Viz, Data Storytelling, Feature Engineering|Contrasting Volume and Inefficiency|
 |[The Two Sides of Nick Anderson](https://github.com/joshlafronz32/Projects/blob/main/library/The%20Two%20Sides%20of%20Nick%20Anderson.pdf)|🏀|R (stats, tidyverse), Python (Soup, Pandas)|Viz, Data Storytelling, Scraping, Dataset Building|Analyzing Decline in Performance|
+|[The Well Runs Dry](https://github.com/joshlafronz32/Projects/blob/main/library/The%20Well%20Runs%20Dry.pdf)|🏀|R (tidyverse), Python (Soup, Pandas, NumPy)|Viz, Data Storytelling, Scraping, Bootstrap|
 |[Trouble in Boca Raton](https://github.com/joshlafronz32/Projects/blob/main/library/Trouble%20in%20Boca%20Raton.pdf)|🏀|R (stats, tidyverse), Excel|Viz, Data Storytelling|Analyzing Decline in Performance|
 |[Updating the 40-20 Rule](https://github.com/joshlafronz32/Projects/blob/main/library/Updating%20the%2040-20%20Rule.pdf)|🏀|R (stats, tidyverse), Python (Soup, Pandas)|Viz, Data Storytelling, Feature Engineering|Assessing a Popular Notion|
 |[Waiting On Scoot](https://github.com/joshlafronz32/Projects/blob/main/library/Waiting%20On%20Scoot.pdf)|🏀|R (stats, tidyverse), Excel|Viz, Data Storytelling|Prospect Development|
@@ -101,6 +102,7 @@
 - [The Playoff Pitfalls of James Harden](https://github.com/joshlafronz32/Projects/blob/main/library/The%20Playoff%20Pitfalls%20of%20James%20Harden.pdf): Addressing the narrative that James Harden shrinks in the postseason.
 - [The SEC's Secret Shot Chucker](https://github.com/joshlafronz32/Projects/blob/main/library/The%20SEC's%20Secret%20Shot%20Chucker.pdf): Exposing the SEC's most undeserving volume shooter.
 - [The Two Sides of Nick Anderson](https://github.com/joshlafronz32/Projects/blob/main/library/The%20Two%20Sides%20of%20Nick%20Anderson.pdf): Unpacking the career trajectory of Magic forward Nick Anderson.
+- [The Well Runs Dry](https://github.com/joshlafronz32/Projects/blob/main/library/The%20Well%20Runs%20Dry.pdf): Exploring the weaknesses that have held Kelvin Sampson's Houston Cougars back from an NCAA Title.
 - [Trouble in Boca Raton](https://github.com/joshlafronz32/Projects/blob/main/library/Trouble%20in%20Boca%20Raton.pdf): The struggles of Final-Four surprise Florida Atlantic in their sequel season.
 - [Updating the 40-20 Rule](https://github.com/joshlafronz32/Projects/blob/main/library/Updating%20the%2040-20%20Rule.pdf): Taking an extended look at the profiles of NBA champions through the lens of Coach Phil Jackson's 40-20 Rule.
 - [Waiting On Scoot](https://github.com/joshlafronz32/Projects/blob/main/library/Waiting%20On%20Scoot.pdf): A deep dive into the improvement, shortcomings and reasons to believe in young guard Scoot Henderson.
