@@ -47,6 +47,7 @@
 |[A Fan's Guide to Fantasy Football](https://github.com/joshlafronz32/Projects/blob/main/library/A%20Fan's%20Guide%20to%20Fantasy%20Football.pdf)|🏈|R (tidyverse)|Viz, Data Storytelling|Meaningful Fantasy Stats|
 |[A Moment to Break the Ice](https://github.com/joshlafronz32/Projects/blob/main/library/A%20Moment%20to%20Break%20the%20Ice.pdf)|🏈|R (stats)|Logistic Regression, Bootstrap, Scraping, Dataset Building|Assessing a Popular Notion|
 |[An Imperfect Science of NBA Scouting](https://github.com/joshlafronz32/Projects/blob/main/library/An%20Imperfect%20Science%20of%20NBA%20Scouting.pdf)|🏀|R (tidyverse, stats, car)|Linear Regression, Cross-Validation, Bootstrap, Scraping, Dataset Building|Assessing a Popular Notion|
+|[Approximating Offensive Box Plus-Minus](https://github.com/joshlafronz32/Projects/blob/main/library/Approximating%20Offensive%20Box%20Plus-Minus.pdf)|🏀|R (tidyverse, stats, car, lmtest)|Linear Regression, Cross-Validation, Robust Regression, Variable Screening|Feature Engineering|
 |[Bam Adebayo Has a Three-Point Problem](https://github.com/joshlafronz32/Projects/blob/main/library/Bam%20Adebayo%20Has%20a%20Three-Point%20Problem.pdf)|🏀|Excel, R (tidyverse)|Viz, Data Storytelling|Analyzing Decline in Performance|
 |[Board Woman Gets Paid](https://github.com/joshlafronz32/Projects/blob/main/library/Board%20Woman%20Gets%20Paid.pdf)|🏀|Excel, Python (NumPy, Pandas)|Bootstrap, Viz, Feature Engineering|Contextualizing an Elite Skill|
 |[Culture](https://github.com/joshlafronz32/Projects/blob/main/library/Culture.pdf)|🏀|Python (Soup, Pandas)|Data Storytelling, Viz, Scraping|Contextualizing a Remarkable Feat|
@@ -84,6 +85,7 @@
 
 - [A Fan's Guide to Fantasy Football](https://github.com/joshlafronz32/Projects/blob/main/library/A%20Fan's%20Guide%20to%20Fantasy%20Football.pdf): A thorough, yet accessible guide of fantasy football tips.
 - [A Moment to Break the Ice](https://github.com/joshlafronz32/Projects/blob/main/library/A%20Moment%20to%20Break%20the%20Ice.pdf): A exercise in modeling how icing the kicker affects field goal accuracy.
+- [Approximating Offensive Box Plus-Minus](https://github.com/joshlafronz32/Projects/blob/main/library/Approximating%20Offensive%20Box%20Plus-Minus.pdf): Using basic box score statistics to estimate an advanced stat: Offensive Box Plus-Minus (OBPM)
 - [An Imperfect Science of NBA Scouting](https://github.com/joshlafronz32/Projects/blob/main/library/An%20Imperfect%20Science%20of%20NBA%20Scouting.pdf): Exploring the belief that an NBA prospect's college free throw percentage is the litmus test for their NBA shooting ability.
 - [Bam Adebayo Has a Three-Point Problem](https://github.com/joshlafronz32/Projects/blob/main/library/Bam%20Adebayo%20Has%20a%20Three-Point%20Problem.pdf): A statistical breakdown of the down year Heat center Bam Adebayo is having.
 - [Board Woman Gets Paid](https://github.com/joshlafronz32/Projects/blob/main/library/Board%20Woman%20Gets%20Paid.pdf): Breaking down the dominant rebounding of Chicago Sky forward Angel Reese.
