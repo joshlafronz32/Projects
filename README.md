@@ -6,6 +6,8 @@
     - [Project Guide](#project-guide)
 - [Brief Description of Each Article](#brief-description-of-each-piece)
 
+**NOTE**: PDFs don't render in-browser on Safari. They can be downloaded, but Chrome/Firefox is needed to read them in-browser.
+
 ## Featured Projects:
 - [A Moment to Break the Ice](https://github.com/joshlafronz32/Projects/blob/main/library/A%20Moment%20to%20Break%20the%20Ice.pdf): Using logistic regression analysis and bootstrapping hypothesis testing to analyze the truth behind the effect of icing an NFL kicker. The models and tests are built on a dataset I built using BeautifulSoup to scrape play-by-play data from Pro Football Reference.
 - [An Imperfect Science of NBA Scouting](https://github.com/joshlafronz32/Projects/blob/main/library/An%20Imperfect%20Science%20of%20NBA%20Scouting.pdf): Using linear models, cross validation, regression analysis, and nonparametric methods to test the scouting theory that college free throw shooting is a superior predictor of NBA three-point shooting than college three-point shooting. Once again, the dataset was built through scraping Basketball Reference.
