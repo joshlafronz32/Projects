@@ -80,6 +80,7 @@
 |[Two Wolves](https://github.com/joshlafronz32/Projects/blob/main/library/Two%20Wolves.pdf)|⚾️|Excel|Viz, Data Storytelling|Player Profiling|
 |[Updating the 40-20 Rule](https://github.com/joshlafronz32/Projects/blob/main/library/Updating%20the%2040-20%20Rule.pdf)|🏀|R (stats, tidyverse), Python (Soup, Pandas)|Viz, Data Storytelling, Feature Engineering|Assessing a Popular Notion|
 |[Waiting On Scoot](https://github.com/joshlafronz32/Projects/blob/main/library/Waiting%20On%20Scoot.pdf)|🏀|R (stats, tidyverse), Excel|Viz, Data Storytelling|Prospect Development|
+|[Where Is Ja?](https://github.com/joshlafronz32/Projects/blob/main/library/Where%20Is%20Ja%3F.pdf)|🏀|Python (Pandas, NumPy, Matplotlib, SciPy)|Bootstrap, Viz, Data Storytelling|Analyzing Decline in Performance|
 |[Without A Hitch](https://github.com/joshlafronz32/Projects/blob/main/library/Without%20A%20Hitch.pdf)|🏀|R (stats, tidyverse), Python (Soup, Pandas), Excel|Bootstrap, Viz, Scraping, Data Storytelling|How Mechancial Changes Influenced Growth|
 
 [Back to Top](#my-personal-portfolio-of-sports-research-statistical-analysis-and-data-analysis-pieces)
@@ -121,6 +122,7 @@
 - [Two Wolves](https://github.com/joshlafronz32/Projects/blob/main/library/Two%20Wolves.pdf): A deep dive in the career of Diamondbacks reliever Kevin Ginkel, with a focus on his peak in 2023-24.
 - [Updating the 40-20 Rule](https://github.com/joshlafronz32/Projects/blob/main/library/Updating%20the%2040-20%20Rule.pdf): Taking an extended look at the profiles of NBA champions through the lens of Coach Phil Jackson's 40-20 Rule.
 - [Waiting On Scoot](https://github.com/joshlafronz32/Projects/blob/main/library/Waiting%20On%20Scoot.pdf): A deep dive into the improvement, shortcomings and reasons to believe in young guard Scoot Henderson.
+- [Where Is Ja?](https://github.com/joshlafronz32/Projects/blob/main/library/Where%20Is%20Ja%3F.pdf): Analyzing the significance of Ja Morant's decline in the 2025-26 season.
 - [Without A Hitch](https://github.com/joshlafronz32/Projects/blob/main/library/Without%20A%20Hitch.pdf): Profiling several NBA players who underwent serious changes in their shooting mechanics.
 
 [Back to Top](#my-personal-portfolio-of-sports-research-statistical-analysis-and-data-analysis-pieces)
