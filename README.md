@@ -55,6 +55,7 @@
 |[Board Woman Gets Paid](https://github.com/joshlafronz32/Projects/blob/main/library/Board%20Woman%20Gets%20Paid.pdf)|🏀|Excel, Python (NumPy, Pandas)|Bootstrap, Viz, Feature Engineering|Contextualizing an Elite Skill|
 |[Culture](https://github.com/joshlafronz32/Projects/blob/main/library/Culture.pdf)|🏀|Python (Soup, Pandas)|Data Storytelling, Viz, Scraping|Contextualizing a Remarkable Feat|
 |[G-League Hot Streaks (2023-24)](https://github.com/joshlafronz32/Projects/blob/main/library/G-League%20Hot%20Streaks.pdf)|🏀|Python (Soup)|Data Storytelling|Highlighting Increased Production|
+|[How Weather Affects Energy Usage](https://github.com/joshlafronz32/Projects/blob/main/library/How%20Weather%20Affects%20Energy%20Usage.pdf)|🌤️|R (Stats), Excel|Data Viz, Model Training, EDA|Explaining a Phonenomenon|
 |[Hype & Humility](https://github.com/joshlafronz32/Projects/blob/main/library/Hype%20%26%20Humility.pdf)|🏀|Python (Soup, Playwright, NumPy, Pandas, Pyplot)|Viz, Data Gathering, Data Storytelling|Prospect Scouting|
 |[It's Been Long Enough](https://github.com/joshlafronz32/Projects/blob/main/library/It's%20Been%20Long%20Enough.pdf)|🏀|Python (Soup, Pandas)|Data Storytelling, Scraping, Feature Engineering|Defending Claim for Hall-of-Fame Enshrinement|
 |[Manually Calculating SRS and SOS](https://github.com/joshlafronz32/Projects/blob/main/library/Manually%20Calculating%20SRS%20and%20SOS.pdf)|🏀|Python (Soup, Pandas)|Feature Engineering, Data Gathering, Model Training|Companion Piece with "Predicting March Madness"|
@@ -66,6 +67,7 @@
 |[Pride Restored](https://github.com/joshlafronz32/Projects/blob/main/library/Pride%20Restored.pdf)|🏀|R (tidyverse), Python (Soup, Pandas, Pyplot)|Data Storytelling, Viz, Scraping|Contextualizing a Remarkable Feat|
 |[Setting The Table](https://github.com/joshlafronz32/Projects/blob/main/library/Setting%20the%20Table.pdf)|⚾️|R (tidyverse, stats)|Bootstrap, NHST|Assessing Performance in High Leverage|
 |[Shea Langeliers's Performance Review](https://github.com/joshlafronz32/Projects/blob/main/library/Shea's%20Performance%20Review.pdf)|⚾️|R (tidyverse)|Viz, Data Storytelling|Highlighting Increased Production|
+|[Sporting KC vs LAFC](https://github.com/joshlafronz32/Projects/blob/main/library/Sporting%20KC%20vs%20LAFC.pdf)|⚽️|R (tidyverse), Excel, LaTeX|Viz, Data Storytelling|Previewing an Upcoming Opponent|
 |[Ten Years in Tempe](https://github.com/joshlafronz32/Projects/blob/main/library/Ten%20Years%20in%20Tempe.pdf)|🏀|R (tidyverse, stats), Python, Excel|Viz, Data Storytelling|Retrospective Basketball Analysis|
 |[The Breakout of Geraldo Perdomo](https://github.com/joshlafronz32/Projects/blob/main/library/The%20Breakout%20of%20Geraldo%20Perdomo.pdf)|⚾️|Excel, R (tidyverse)|Viz, Data Storytelling|Highlighting Increased Production|
 |[The Delayed Development of Keon Johnson](https://github.com/joshlafronz32/Projects/blob/main/library/The%20Delayed%20Development%20of%20Keon%20Johnson.pdf)|🏀|R (tidyverse)|Viz, Data Storytelling|Analyzing How Young Players are Struggling|
@@ -98,6 +100,7 @@
 - [Board Woman Gets Paid](https://github.com/joshlafronz32/Projects/blob/main/library/Board%20Woman%20Gets%20Paid.pdf): Breaking down the dominant rebounding of Chicago Sky forward Angel Reese.
 - [Culture](https://github.com/joshlafronz32/Projects/blob/main/library/Culture.pdf): Remembering the 2017 Miami Heat, a team to be admired and respected.
 - [G-League Hot Streaks (2023-24)](https://github.com/joshlafronz32/Projects/blob/main/library/G-League%20Hot%20Streaks.pdf): Highlighting the turnarounds by several G-League players whom I followed in college.
+- [How Weather Affects Energy Usage](https://github.com/joshlafronz32/Projects/blob/main/library/How%20Weather%20Affects%20Energy%20Usage.pdf): My work with a synthetic dataset detailing how weather affects industrial and residential energy usage through visual and statistical analysis.
 - [Hype & Humility](https://github.com/joshlafronz32/Projects/blob/main/library/Hype%20%26%20Humility.pdf): A scouting report covering Virginia Tech freshman Neoklis Avdalas, looking at the highs, lows, reasons for optimism, and future concerns.
 - [It's Been Long Enough](https://github.com/joshlafronz32/Projects/blob/main/library/It's%20Been%20Long%20Enough.pdf): Making the case for Larry Foust's Hall of Fame enshrinement.
 - [Manually Calculating SRS and SOS](https://github.com/joshlafronz32/Projects/blob/main/library/Manually%20Calculating%20SRS%20and%20SOS.pdf): Companion piece with "Predicting March Madness" that addresses a data leakage issue in my ML model. It required so much work in addressing it that a separate document was a better idea.
@@ -109,6 +112,7 @@
 - [Pride Restored](https://github.com/joshlafronz32/Projects/blob/main/library/Pride%20Restored.pdf): An argumentative and reflective piece about LMU Basketball's 2023 season.
 - [Setting The Table](https://github.com/joshlafronz32/Projects/blob/main/library/Setting%20the%20Table.pdf): Examining the difference in a batter's approach (and productivity?) when the bases are empty and when there are runners in scoring position.
 - [Shea Langeliers's Performance Review](https://github.com/joshlafronz32/Projects/blob/main/library/Shea's%20Performance%20Review.pdf): How A's top prospect -and centerpiece of the Matt Olson trade- Shea Langeliers fared in his first 162 MLB games.
+- [Sporting KC vs LAFC](https://github.com/joshlafronz32/Projects/blob/main/library/Sporting%20KC%20vs%20LAFC.pdf): Previewing Sporting KC's match against LAFC on September 12, 2026.
 - [Ten Years in Tempe](https://github.com/joshlafronz32/Projects/blob/main/library/Ten%20Years%20in%20Tempe.pdf): A retrospective on Bobby Hurley's time as the head coach of Arizona State basketball.
 - [The Breakout of Geraldo Perdomo](https://github.com/joshlafronz32/Projects/blob/main/library/The%20Breakout%20of%20Geraldo%20Perdomo.pdf): A two-parter - the 2023 first half breakout of Geraldo Perdomo and the reality check that came afterwards.
 - [The Delayed Development of Keon Johnson](https://github.com/joshlafronz32/Projects/blob/main/library/The%20Delayed%20Development%20of%20Keon%20Johnson.pdf): Diving into the inefficient and brief career of 2021 first-round pick Keon Johnson.
